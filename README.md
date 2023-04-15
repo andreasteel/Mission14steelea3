@@ -1,6 +1,3 @@
-# For some reason it is not saving the react-scripts function, so to start you need to run the command 'npm install react-scripts --save'
-
-
 
 
 # Getting Started with Create React App
